@@ -7,7 +7,6 @@
  - [Getir ikinci siparişe özel 25 tl alışverişe 20 tl indirim](https://imgyukle.com/i/1SCph)  
  - [GetirBüyük ilk siparişe özel 60 tl alışverişe 30 tl indirim](https://imgyukle.com/i/1SCph) (ilk siparişte teslimat ücretsiz)
  - [Getiryemek ilk siparişe özel kampanyalar (pizzahut, popeyes vs.)](https://imgyukle.com/i/1SOxI)  
- - [GetirÇarşı ilk siparişe özel %50 indirim](https://imgyukle.com/i/1SXZG)  
  - [ve daha fazlası](https://imgyukle.com/i/1SG0R) 
 
  
@@ -56,7 +55,7 @@ Güle güle kullanın :)
 
 ## İlk Siparişe Özel Kampanya Görselleri:
 
-![enter image description here](https://imgyukle.com/f/2021/08/29/Kxh7x.jpg)
+![enter image description here](https://imgyukle.com/f/2021/08/31/2qDRR.jpg)
 ![enter image description here](https://imgyukle.com/f/2021/08/27/1SOxI.jpg)![enter image description here](https://imgyukle.com/f/2021/08/27/1SG0R.jpg)
 
 
