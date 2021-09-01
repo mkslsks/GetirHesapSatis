@@ -25,6 +25,8 @@
 
 
 **ÖNEMLİ NOT:** Kampanyaları kullanabilmek için daha önce getirde kullanılmamış bir kart numarasında ihtiyaç vardır. Papara, Pep, İninal gibi servislerden ya da kendi bankanızdan istediğiniz kadar ücretsiz sanal kart oluşturabilirsiniz. Pep'de ki alışveriş yaptıkça yenilenen kart numarası özelliği bu iş için en iyisi. Papara da her ay ücretsiz yeni sanal kart veriyor ekstra almak isterseniz kart ücreti paparada 1 lira.
+
+-GetirYemekten sipariş vericekseniz kendi telefon numaranızı sipariş notu kısmına eklemeyi unutmayın. Restoran kuryesi adresi bulamazsa sizi arar.
   
 Güle güle kullanın :) 
 
