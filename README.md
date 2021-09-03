@@ -17,7 +17,7 @@
 -
  1. [Bu Linkten](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=tr) "EditThisCookie" isimli eklentiyi web tarayıcınıza kurun.  
  2.  Bilgisayardan daha önce getire giriş yaptıysanız çıkış yapın  
- 3.  Getir sitesi açık iken indirdiğiniz eklenti üzerine (kurabiye simgesi) tıklayın, içeri aktar ikonuna tıklayın: [Görsel](https://imgyukle.com/i/1O8u0)  
+ 3.  Getir websitesi açık iken indirdiğiniz eklenti üzerine (kurabiye simgesi) tıklayın, içeri aktar ikonuna tıklayın: [Görsel](https://imgyukle.com/i/1O8u0)  
  4.  Altta çıkan boşluğa size gönderdiğim metnin tamamını kopyalayıp yapıştırın.  
  5. Alttaki yeşil tike tıklayıp getir sayfasını yenileyin. Eğer adres soruyorsa hesaba giriş yapılmış demektir. Adresinizi ekledikten sonra kampanyalarıma basıp kuponları teyit edebilirsiniz.
 
