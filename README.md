@@ -53,11 +53,15 @@ Güle güle kullanın :)
 
 	Yaptığım gözlemlere göre sabahtan akşama kadar tüm kampanyaları görebiliyorsunuz. Bulunduğum bölgede akşam saatlerine doğru 35/30 kampanyası 40/30 a, 60/30 kampanyası 80/30 a dönüşebiliyor. Gece geç saatlerde kampanya hiç kalmayabiliyor fakat sonraki günün sabahı tekrar açılıyor hepsi. Yani kuponları gün içinde kullanmanız tavsiye edilir, akşam saati ise ve kampanya göremiyorsanız sonraki günü bekleyebilirsiniz.
 	
+- **GetirÇarşı neden görünmüyor?**
+
+	GetirÇarşı henüz websitesi için açılmadı.
+	
  **Memnuniyetiniz birinci önceliğimdir! Bir sorun çıktığında yazabilirsiniz her zaman yardımcı olurum. Hesap çalışmazsa yenisi ile değiştiririm.**
  
  **Önemli Not**
  -
- - Hesaptan çıkış yapacaksanız ve ilerde tekrar giriş yapabilmek istiyorsanız, eklentideki dışa aktar butonunu kullanarak anlık cookieleri panoya kopyalayıp hesabı yedekleyebilirsiniz. Her sipariş verildiğinde cookie değiştiği için çıkış yapmadan bu adımı uygulamazsanız hesaba bir daha erişemezsiniz.
+ - Hesaptan çıkış yapacaksanız ve ilerde tekrar giriş yapabilmek istiyorsanız, eklentideki dışa aktar butonunu kullanarak [GÖRSEL](https://imgyukle.com/i/Wmfuo) anlık cookieleri panoya kopyalayıp hesabı yedekleyebilirsiniz. Her sipariş verildiğinde cookie değiştiği için çıkış yapmadan bu adımı uygulamazsanız hesaba bir daha erişemezsiniz.
  
 
 ## İlk Siparişe Özel Kampanya Görselleri:
