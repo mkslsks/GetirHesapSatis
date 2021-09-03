@@ -55,6 +55,10 @@ Güle güle kullanın :)
 	
  **Memnuniyetiniz birinci önceliğimdir! Bir sorun çıktığında yazabilirsiniz her zaman yardımcı olurum. Hesap çalışmazsa yenisi ile değiştiririm.**
  
+ **Önemli Not**
+ -
+ - Hesaptan çıkış yapacaksanız ve ilerde tekrar giriş yapabilmek istiyorsanız, eklentideki dışa aktar butonunu kullanarak anlık cookieleri panoya kopyalayıp hesabı yedekleyebilirsiniz. Her sipariş verildiğinde cookie değiştiği için çıkış yapmadan bu adımı uygulamazsanız hesaba bir daha erişemezsiniz.
+ 
 
 ## İlk Siparişe Özel Kampanya Görselleri:
 
