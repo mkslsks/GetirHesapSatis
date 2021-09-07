@@ -3,11 +3,11 @@
   
 **İçindeki Kampanyalar:**  
 
- - [Getir ilk siparişe özel 35 tl alışverişe 30 tl indirim] (ilk siparişte teslimat ücretsiz yani 5 liraya 35 liralık sepet sipariş edebilirsiniz)  
- - [Getir ikinci siparişe özel 25 tl alışverişe 20 tl indirim]
- - [GetirYemek ilk siparişe özel 40 tl alışverişe 25 tl indirim] (Bölgeye göre değişiyor, sizin bölgenizde 50/30, 40/30 vs olabilir)
- - [GetirBüyük ilk siparişe özel 60 tl alışverişe 30 tl indirim] (ilk siparişte teslimat ücretsiz)
- - [GetirYemek ilk siparişe özel diğer kampanyalar (pizzahut, popeyes vs.)]  
+ - Getir ilk siparişe özel 35 tl alışverişe 30 tl indirim (ilk siparişte teslimat ücretsiz yani 5 liraya 35 liralık sepet sipariş edebilirsiniz)  
+ - Getir ikinci siparişe özel 25 tl alışverişe 20 tl indirim
+ - GetirYemek ilk siparişe özel 40 tl alışverişe 25 tl indirim (Bölgeye göre değişiyor, sizin bölgenizde 50/30, 40/30 vs olabilir)
+ - GetirBüyük ilk siparişe özel 60 tl alışverişe 30 tl indirim (ilk siparişte teslimat ücretsiz)
+ - GetirYemek ilk siparişe özel diğer kampanyalar (pizzahut, popeyes vs.)]  
 
  
 
