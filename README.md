@@ -60,7 +60,7 @@ Güle güle kullanın :)
  
  **Önemli Not**
  -
- - Hesaptan çıkış yapacaksanız ve ilerde tekrar giriş yapabilmek istiyorsanız, eklentideki dışa aktar butonunu kullanarak [GÖRSEL](https://imgyukle.com/i/Wmfuo) anlık cookieleri panoya kopyalayıp hesabı yedekleyebilirsiniz. Her sipariş verildiğinde cookie değiştiği için çıkış yapmadan bu adımı uygulamazsanız hesaba bir daha erişemezsiniz.
+ - Hesaptan çıkış yapacaksanız ve ilerde tekrar giriş yapabilmek istiyorsanız, eklentideki dışa aktar butonunu kullanarak [GÖRSEL](https://imgur.com/a/7rTcuIC) anlık cookieleri panoya kopyalayıp hesabı yedekleyebilirsiniz. Her sipariş verildiğinde cookie değiştiği için çıkış yapmadan bu adımı uygulamazsanız hesaba bir daha erişemezsiniz.
  
 
 ## İlk Siparişe Özel Kampanya Görselleri:
