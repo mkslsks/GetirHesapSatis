@@ -3,12 +3,11 @@
   
 **İçindeki Kampanyalar:**  
 
- - [Getir ilk siparişe özel 35 tl alışverişe 30 tl indirim](https://imgyukle.com/i/1SyuM) (ilk siparişte teslimat ücretsiz yani 5 liraya 35 liralık sepet sipariş edebilirsiniz)  
- - [Getir ikinci siparişe özel 25 tl alışverişe 20 tl indirim](https://imgyukle.com/i/1SCph)  
- - [GetirYemek ilk siparişe özel 40 tl alışverişe 25 tl indirim](https://imgyukle.com/i/UHiu8) (Bölgeye göre değişiyor, sizin bölgenizde 50/30, 40/30 vs olabilir)
- - [GetirBüyük ilk siparişe özel 60 tl alışverişe 30 tl indirim](https://imgyukle.com/i/1SCph) (ilk siparişte teslimat ücretsiz)
- - [GetirYemek ilk siparişe özel diğer kampanyalar (pizzahut, popeyes vs.)](https://imgyukle.com/i/1SOxI)  
- - [ve daha fazlası](https://imgyukle.com/i/1SG0R) 
+ - [Getir ilk siparişe özel 35 tl alışverişe 30 tl indirim] (ilk siparişte teslimat ücretsiz yani 5 liraya 35 liralık sepet sipariş edebilirsiniz)  
+ - [Getir ikinci siparişe özel 25 tl alışverişe 20 tl indirim]
+ - [GetirYemek ilk siparişe özel 40 tl alışverişe 25 tl indirim] (Bölgeye göre değişiyor, sizin bölgenizde 50/30, 40/30 vs olabilir)
+ - [GetirBüyük ilk siparişe özel 60 tl alışverişe 30 tl indirim] (ilk siparişte teslimat ücretsiz)
+ - [GetirYemek ilk siparişe özel diğer kampanyalar (pizzahut, popeyes vs.)]  
 
  
 
@@ -66,11 +65,4 @@ Güle güle kullanın :)
 
 ## İlk Siparişe Özel Kampanya Görselleri:
 
-![enter image description here](https://imgyukle.com/f/2021/09/01/UHXaM.jpg)
-![enter image description here](https://imgyukle.com/f/2021/08/27/1SOxI.jpg)![enter image description here](https://imgyukle.com/f/2021/08/27/1SG0R.jpg)
-
-
-## Örnek siparişler:
-
-![enter image description here](https://imgyukle.com/f/2021/08/27/1uP51.jpg)
-![enter image description here](https://imgyukle.com/f/2021/08/27/1SA0A.jpg)
+![enter image description here](https://i.imgur.com/eoBmccr.jpeg)
