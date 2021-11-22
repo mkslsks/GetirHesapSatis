@@ -1,13 +1,13 @@
-## ***Taze açılmış hesaplardır tanesi 10 TL. +90lı Türkiye numarası ile kayıt olunmuş, telefon onaylı hesaplardır. Hesaplar hiç kullanılmamış size özeldir, ilk ve son sahibi olacaksınız.***
+## ***Taze açılmış hesaplardır tanesi 15 TL. +90lı Türkiye numarası ile kayıt olunmuş, telefon onaylı hesaplardır. Hesaplar hiç kullanılmamış size özeldir, ilk ve son sahibi olacaksınız.***
 
   
 **İçindeki Kampanyalar:**  
 
  - Getir ilk siparişe özel 35 tl alışverişe 30 tl indirim (ilk siparişte teslimat ücretsiz yani 5 liraya 35 liralık sepet sipariş edebilirsiniz)  
  - Getir ikinci siparişe özel 25 tl alışverişe 20 tl indirim
- - GetirYemek ilk siparişe özel 40 tl alışverişe 25 tl indirim (Bölgeye göre değişiyor, sizin bölgenizde 50/30, 40/30 vs olabilir)
+ - GetirYemek ilk siparişe özel 40 tl alışverişe 20 tl indirim (Bölgeye göre değişiyor, sizin bölgenizde 50/30, 40/30 vs olabilir)
  - GetirBüyük ilk siparişe özel 60 tl alışverişe 30 tl indirim (ilk siparişte teslimat ücretsiz)
- - GetirYemek ilk siparişe özel diğer kampanyalar (pizzahut, popeyes vs.)]  
+ - GetirYemek ilk siparişe özel diğer kampanyalar (pizzahut, popeyes vs.)  
 
  
 
@@ -60,7 +60,7 @@ Güle güle kullanın :)
  
  **Önemli Not**
  -
- - Hesaptan çıkış yapacaksanız ve ilerde tekrar giriş yapabilmek istiyorsanız, eklentideki dışa aktar butonunu kullanarak [GÖRSEL](https://imgur.com/a/7rTcuIC) anlık cookieleri panoya kopyalayıp hesabı yedekleyebilirsiniz. Her sipariş verildiğinde cookie değiştiği için çıkış yapmadan bu adımı uygulamazsanız hesaba bir daha erişemezsiniz.
+ - Hesaptan çıkış yapacaksanız ve ilerde tekrar giriş yapabilmek istiyorsanız, getir üzerinden değil de eklenti üzerindeki çöp kutusu ikonuna tıklayarak çıkış yapabilirsiniz. Getir üzerindeki menüden çıkış yaparsanız hesaba bir daha giriş yapamazsınız.
  
 
 ## İlk Siparişe Özel Kampanya Görselleri:
